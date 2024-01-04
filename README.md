@@ -1,15 +1,25 @@
 # Lucas Ribeiro
 
-### **Eng. Software** - Web, Java, SQL
+### **Eng. Software** 
+
+###Knowledge
+- Frontend-Web
+- Javascript
+- Typescript
+- React
+- Next.JS
+
 [**Instagram**](https://www.instagram.com/lucas.rl7/)
 
-```java
-public class Lucas {
-  String nome = "lucas_ribeiro";
-  Int idade = 23;
-  String curso = "eng_software";
-  public void static main ( String [] Args) {
-    System.out.println("Olá");
-  }
+```typescript
+interface MyProfile {
+    name: string,
+    idade: number,
+    curso: string,
+    myProfile: () => void
+}
+
+const Profile = ({ name, idade, curso }:MyProfile) => {
+    console.log(`Hello World. I am ${name}, ${idade}, ${curso}`)
 }
 ```
