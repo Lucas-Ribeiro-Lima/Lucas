@@ -14,12 +14,12 @@
 ```typescript
 interface MyProfile {
     name: string,
-    idade: number,
-    curso: string,
+    age: number,
+    graduation: string,
     myProfile: () => void
 }
 
-const Profile = ({ name, idade, curso }:MyProfile) => {
-    console.log(`Hello World. I am ${name}, ${idade}, ${curso}`)
+const Profile = ({ name, age, graduation }:MyProfile) => {
+    console.log(`Hello World. I am ${name}, ${age}, ${graduation}`)
 }
 ```
