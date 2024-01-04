@@ -9,7 +9,11 @@
 - React
 - Next.JS
 
+[**Linkedin**](https://www.linkedin.com/in/lucas-ribeiro-616025228)
+
 [**Instagram**](https://www.instagram.com/lucas.rl7/)
+
+#See my projects here on Github  **💻**
 
 ```typescript
 interface MyProfile {
