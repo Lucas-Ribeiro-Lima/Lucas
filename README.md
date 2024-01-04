@@ -1,6 +1,6 @@
 # Lucas Ribeiro 🥷🏼
 
-👋 Greetings! I'm [Lucas Ribeiro Lima], a 23-year-old Software Engineering enthusiast with a flair for crafting seamless and engaging user experiences. Currently navigating the Information Technology landscape, I specialize in frontend technologies such as React, Next.js, and TypeScript.
+👋 Greetings! I'm Lucas Ribeiro Lima, a 23-year-old Software Engineering enthusiast with a flair for crafting seamless and engaging user experiences. Currently navigating the Information Technology landscape, I specialize in frontend technologies such as React, Next.js, and TypeScript.
 
 🚀 Here's a glimpse of what I bring to the coding table:
 
