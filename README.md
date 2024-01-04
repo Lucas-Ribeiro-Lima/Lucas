@@ -16,7 +16,6 @@ interface MyProfile {
     name: string,
     age: number,
     graduation: string,
-    myProfile: () => void
 }
 
 const Profile = ({ name, age, graduation }:MyProfile) => {
