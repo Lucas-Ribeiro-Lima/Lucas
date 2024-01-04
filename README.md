@@ -1,6 +1,6 @@
-# Lucas Ribeiro
+# Lucas Ribeiro 🥷🏼
 
-#### **Eng. Software** 
+## **Eng. Software** 
 
 ### **Knowledge**
 - Frontend-Web
