@@ -21,6 +21,7 @@ Feel free to delve into my repositories to discover some of the coding adventure
 - DevOps
 - Kubernetes
 - Docker
+- Python
 
 [**LinkedIn**](https://www.linkedin.com/in/lucas-ribeiro-616025228)
 
