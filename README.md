@@ -27,6 +27,8 @@ Feel free to delve into my repositories to discover some of the coding adventure
 
 [**Instagram**](https://www.instagram.com/lucas.rl7/)
 
+[**Notion**](https://knowlelucas.notion.site/Second-Brain-67d2129d67c34667b721528df7de4c23)
+
 ## Explore my projects here on Github  **💻**
 
 ```typescript
